@@ -23,11 +23,11 @@ The dataset includes the following columns:
 
 ## Tools and Libraries
 
-- **Python**: Programming language used for the analysis
-- **Pandas**: Library for data manipulation and analysis
-- **NumPy**: Library for numerical operations
-- **Matplotlib**: Library for creating static, animated, and interactive visualizations
-- **Seaborn**: Library for statistical data visualization
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
 
 ## Analysis
 
