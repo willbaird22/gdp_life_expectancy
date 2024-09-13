@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves an exploratory data analysis of GDP and life expectancy values for six different countries over a span of 15 years. The analysis focuses on understanding the trends and relationships between GDP and life expectancy using various visualization techniques.
+This project involves an exploratory data analysis of GDP and life expectancy values for six different countries over a span of 16 years. The analysis focuses on understanding the trends and relationships between GDP and life expectancy using various visualization techniques.
 
 The countries analyzed in this dataset are:
 - Chile
